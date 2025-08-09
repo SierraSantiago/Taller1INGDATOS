@@ -1,2 +1,4 @@
 .env
 db_minitest.sqlite3
+sales.csv
+ventas.db
